@@ -1,0 +1,13 @@
+
+—
+java:S1192>"TDefine a constant instead of duplicating this literal "Invalid long value " 3 times.(š«õÀ8ºÔ¼Ñƒ2J$ef4e5252-7673-42d4-8a2c-29826b1ab221
+™
+java:S1192("VDefine a constant instead of duplicating this literal "Invalid double value " 3 times.(·‰Ã8»Ô¼Ñƒ2J$8fb5430b-6b5c-4ef8-ba3c-2bd538f79a4b
+}
+java:S1118	":Add a private constructor to hide the implicit public one.(ã¦ıë8äÔ¼Ñƒ2J$3dd5247d-8a68-4914-8110-4c31308f0682
+{
+java:S3878n"8Remove this array creation and simply pass the elements.(·¹¥Ä8÷Ô¼Ñƒ2J$9179a845-024c-4fd2-ba25-b98d74d80dc3
+o
+java:S1905y"'Remove this unnecessary cast to "long".(¥ì‰¡ÿÿÿÿÿ8úÔ¼Ñƒ2J$ab155d12-d2b1-4b76-9d00-f976d6a844f0
+}
+java:S1068":Remove this unused "EMAIL_ID_VALID_PATTERN" private field.(¸­Â½8ıÔ¼Ñƒ2J$30f8402e-3041-4ee1-83f2-4a63e1e2fc6c

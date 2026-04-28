@@ -1,0 +1,11 @@
+
+U
+java:S1118":Add a private constructor to hide the implicit public one.(Ì¨·„úÿÿÿÿ
+D
+java:S2440".Remove this instantiation of "DateTimeParser".(ÿ€—Õ
+I
+java:S1481"3Remove this unused "dateTimeParser" local variable.(ÿ€—Õ
+<
+java:S1905M"'Remove this unnecessary cast to "long".(‹Ã‚]
+B
+java:S1905j"'Remove this unnecessary cast to "long".(¡™´ÿÿÿÿÿ

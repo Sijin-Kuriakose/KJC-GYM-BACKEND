@@ -1,0 +1,7 @@
+
+Ь	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±ЁЏП8ч ўйљ2J$d5fc7b8b-0b84-4224-803d-87b2ca4f1424
+Х	java:S100f"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ф¶≥–щ€€€€8ю ўйљ2J$dce8a888-0008-427d-bd21-28dcaf543b85
+Т
+java:S1128"ORemove this unused import 'org.apache.xmlbeans.impl.xb.xsdschema.ListDocument'.(уѕом8јС’сљ2J$6262d77a-451c-4532-b24a-080bbfa4cd77
+t
+java:S1144f",Remove this unused private "$values" method.(ф¶≥–щ€€€€8€ ўйљ2J$cce5b7e0-04e2-4fc9-bbaa-af248ca86dfc

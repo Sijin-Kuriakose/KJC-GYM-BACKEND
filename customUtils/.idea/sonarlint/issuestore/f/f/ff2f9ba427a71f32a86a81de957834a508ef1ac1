@@ -1,0 +1,7 @@
+
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼Ô¦ˆJ$fd7e3b33-c219-4b4e-9847-a9e49f0fbc09
+‰	java:S100`"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š±ÂÒJ$efc07f37-4db0-4961-8546-4db625ad7879
+~
+java:S1144;"BRemove this unused private "LibraryCommonKeysPBinder" constructor.(“Ö”•J$af082052-cec8-4c75-8c19-aab8acacee7c
+h
+java:S1144`",Remove this unused private "$values" method.(Š±ÂÒJ$8346174d-31b5-40b2-8a36-98f6acd5a6ad

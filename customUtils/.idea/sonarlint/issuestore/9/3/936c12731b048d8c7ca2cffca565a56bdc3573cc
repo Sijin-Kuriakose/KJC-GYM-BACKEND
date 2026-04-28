@@ -1,0 +1,7 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(á¬›Ð8‰Ðöíª2J$c223e9b9-ba5a-4f48-b852-231cc03b6443
+–	java:S100¬"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(žûšµÿÿÿÿÿ8¥Ðöíª2J$38dd435d-8a63-46dd-8762-af264d047f9c
+‚
+java:S1144‡"?Remove this unused private "OnBoardingKeysPBinder" constructor.(Œ¹â8¨Ðöíª2J$7083a564-24ac-48d6-996e-c75b499220df
+u
+java:S1144¬",Remove this unused private "$values" method.(žûšµÿÿÿÿÿ8¨Ðöíª2J$fab5f9a2-bf0e-48c6-91ee-9a1025e8f12a

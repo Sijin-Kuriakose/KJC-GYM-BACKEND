@@ -1,0 +1,7 @@
+
+›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Åì²	8Í™”Ø¥2J$10fac4e3-487a-43f4-b66f-913f3f5451e9
+}
+java:S1144+"5Remove this unused private "MenuPBinder" constructor.(÷¨ßŸüÿÿÿÿ8ûÖËØ¥2J$762b1d10-281e-4d60-b1ed-577d8e3affe1
+t
+java:S1144d",Remove this unused private "$values" method.(ÏÿšÛøÿÿÿÿ8Ó™”Ø¥2J$b811637f-0066-414e-97fb-aeb90ed30bde
+•	java:S100d"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÿšÛøÿÿÿÿ8Ù™”Ø¥2J$5bf581dd-4f34-4ba1-b588-725fce697ca4

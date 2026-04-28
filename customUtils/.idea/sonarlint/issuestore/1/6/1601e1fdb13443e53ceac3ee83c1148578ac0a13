@@ -1,0 +1,22 @@
+
+‡
+java:S6208Ì"CMerge the previous cases into this one using comma-separated label.(Ãˆ–ü8ä¹„›¿2J$541387d9-94fe-4e24-b986-8f9e0b49a7c7
+i
+java:S1192’"FDefine a constant instead of duplicating this literal "UTF-8" 4 times.(®ôß¹ýÿÿÿÿ8çÿù›¿2
+´
+java:S11302"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(®Ôëóûÿÿÿÿ8ê¶ù•þ1J$bb502a90-efb3-46e2-81f2-13fc6b27a997
+–
+java:S6244Z"SConsider using the Consumer Builder method instead of creating this nested builder.(º¾þ…8ð¶ù•þ1J$793e0b58-8e48-4d93-b4d2-1d7f0097c564
+–
+java:S6244_"SConsider using the Consumer Builder method instead of creating this nested builder.(ýÉÅÎ8ò¶ù•þ1J$ea4a2bb9-d83f-4eaf-a6d3-fec11024a58d
+•
+java:S6244^"SConsider using the Consumer Builder method instead of creating this nested builder.(öÌ°f8ò¶ù•þ1J$409d4207-2283-40c7-b0be-c5531c5663af
+œ
+java:S6244"SConsider using the Consumer Builder method instead of creating this nested builder.(ˆäÏÂüÿÿÿÿ8âúˆ›¿2J$e8d0d8bc-90d3-4f88-a7f7-c8a3dd30c576
+œ
+java:S6244"SConsider using the Consumer Builder method instead of creating this nested builder.(ˆäÏÂüÿÿÿÿ8ãúˆ›¿2J$ff1abb82-9ae8-48ad-9677-b4817669ac59
+s	java:S106†"+Replace this use of System.out by a logger.(’ÑˆÄüÿÿÿÿ8æúˆ›¿2J$06dece50-e80a-4fba-bd10-5a5773ea1f07
+n	java:S106‰"+Replace this use of System.err by a logger.(úœ‘ç8èúˆ›¿2J$88a36ab7-4a61-4e01-a813-a4ca1bfbb47d
+
+java:S1128
+">Remove this unused import 'java.nio.charset.StandardCharsets'.(ï˜ÞÛ8‘÷ä›¿2J$8cd7a95a-8b0c-4aae-b87b-254b06cfe7e4

@@ -1,0 +1,77 @@
+
+R
+java:S3740Ó"/Provide the parametrized type for this generic.(ŞÏµºúÿÿÿÿ8Û¤åŞ¹2
+M
+java:S3740ğ"/Provide the parametrized type for this generic.(‹“ğÒ8Ü¤åŞ¹2
+x
+java:S3740é"/Provide the parametrized type for this generic.(”÷Ÿ¸øÿÿÿÿ8ÍƒÜÊ±2J$e0cbfc33-9071-4ed1-9d0c-eb3ab5e255de
+x
+java:S3740™"/Provide the parametrized type for this generic.(”÷Ÿ¸øÿÿÿÿ8ÍƒÜÊ±2J$8d3cdc5e-f181-4df0-9acc-5f4609a435a1
+s
+java:S3740¯"/Provide the parametrized type for this generic.(ÙùŸÜ8¬µÔ¹2J$d5060f48-5488-4b91-963b-3e8bcba5a1ef
+Œ
+java:S6208•"CMerge the previous cases into this one using comma-separated label.(³üğ²ÿÿÿÿÿ8ÏƒÜÊ±2J$d9f9474f-b474-4fd1-8c31-47189317bf7c
+ 
+java:S1192£"WDefine a constant instead of duplicating this literal "Date format is invalid" 3 times.(ä³ÏÌùÿÿÿÿ8Š¬µÔ¹2J$d349f330-e22f-4fb1-a181-9e064aeee614
+x
+java:S1066ã"/Merge this if statement with the enclosing one.(¢òŞ•ÿÿÿÿÿ8ĞƒÜÊ±2J$abe27fb9-4694-44ef-927a-60252b33b3ce
+~
+java:S1141Æ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ÒƒÜÊ±2J$2d88f550-4b56-4ebe-b86e-61e35026e10e
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¯Ò»µ8²§åŞ¹2
+:
+java:S1118"Hide this public constructor.(¯Ò»µ8·§åŞ¹2
+o
+java:S3776#"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(õÉĞç8»§åŞ¹2
+
+java:S62014"KReplace this instanceof check and cast with 'instanceof String stringValue'(Ğ»µÈ8Ñ…ÜÊ±2J$a9f86f6f-4aa9-405b-8a07-2c04a2fea61f
+q
+java:S6201F"OReplace this instanceof check and cast with 'instanceof Document innerDocument'(¢®çÜøÿÿÿÿ8Ã§åŞ¹2
+w
+java:S1611s"/Remove the parentheses around the "i" parameter(Êè‘ƒûÿÿÿÿ8à…ÜÊ±2J$bb0d2dee-06c6-486d-99cd-9bcda2efb88e
+›
+java:S1602s"SRemove useless curly braces around statement and then remove useless return keyword(Êè‘ƒûÿÿÿÿ8à…ÜÊ±2J$ed402d13-711a-4b5a-84e2-90a2f0d2a66e
+P
+java:S1172’"2Remove this unused method parameter "keyIterator".(×Óà8Í§åŞ¹2
+h
+java:S6201°"KReplace this instanceof check and cast with 'instanceof String stringValue'(¾°éX8Ò§åŞ¹2
+r
+java:S6201¸"OReplace this instanceof check and cast with 'instanceof Document innerDocument'(÷á“åúÿÿÿÿ8Ò§åŞ¹2
+a
+java:S1611Ë">Remove the parentheses around the "nonEmptyProperty" parameter(õ¤õûşÿÿÿÿ8Ô§åŞ¹2
+M
+java:S1611Ò"/Remove the parentheses around the "k" parameter(°†¤Å8Õ§åŞ¹2
+q
+java:S1602Ò"SRemove useless curly braces around statement and then remove useless return keyword(°†¤Å8Õ§åŞ¹2
+p
+java:S3776î"RRefactor this method to reduce its Cognitive Complexity from 65 to the 15 allowed.(Óûßó8Ù§åŞ¹2
+d
+java:S6201ş"FReplace this instanceof check and cast with 'instanceof Double double'(«ÏĞ²8Ş§åŞ¹2
+n
+java:S6201Ï"KReplace this instanceof check and cast with 'instanceof String stringValue'(¿Ô°¤ùÿÿÿÿ8ã§åŞ¹2
+†
+java:S6201æ"BReplace this instanceof check and cast with 'instanceof List list'(¥ë×¼8Ó…ÜÊ±2J$dbac5cd0-7cb0-426d-a6f8-9d7eea966bf4
+†
+java:S6201÷"BReplace this instanceof check and cast with 'instanceof List list'(¥ë×¼8Ô…ÜÊ±2J$f1b1e230-ca2e-4b24-89c9-95a12c59dcdc
+†
+java:S6201"BReplace this instanceof check and cast with 'instanceof List list'(¥ë×¼8Ô…ÜÊ±2J$07adcd0d-051e-4250-8df1-87642a707517
+
+java:S1612…"FReplace this lambda with method reference 'Integer.class::isInstance'.(ÀÒ´‡şÿÿÿÿ8Ö…ÜÊ±2J$901878a7-cd78-401d-88e0-3ab2e8796bf0
+†
+java:S6201–"BReplace this instanceof check and cast with 'instanceof List list'(¥ë×¼8Ú…ÜÊ±2J$cd5ccaf5-a66d-4132-9bf8-e68fceca54fe
+†
+java:S6201–"BReplace this instanceof check and cast with 'instanceof List list'(¥ë×¼8Û…ÜÊ±2J$6a33f46c-36ef-42ad-9161-f505d9d8e534
+›
+java:S3776«"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(£ÂËüÿÿÿÿ8Ü…ÜÊ±2J$1611b3f4-7e67-480a-ab29-71d013e30309
+|
+java:S1172«"3Remove this unused method parameter "propertyName".(£ÂËüÿÿÿÿ8İ…ÜÊ±2J$c66a844b-d128-4639-90ff-d044c8d7091f
+s	java:S106®"+Replace this use of System.out by a logger.(÷Íšôùÿÿÿÿ8ß…ÜÊ±2J$1f8897b1-446e-435f-a651-0072a76871d7
+n	java:S106°"+Replace this use of System.out by a logger.(Ô¢ÔË8ß…ÜÊ±2J$40aa340c-0014-418a-a30e-8fdd3dfa05e4
+V
+java:S1611·"9Remove the parentheses around the "stringValue" parameter(¤ÀŠ&8ñ§åŞ¹2
+p
+java:S1602·"SRemove useless curly braces around statement and then remove useless return keyword(¤ÀŠ&8ñ§åŞ¹2
+ã
+java:S6541#"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 68 to 64, Complexity from 17 to 14, Nesting Level from 3 to 2, Number of Variables from 23 to 6.(õÉĞç8ö§åŞ¹2
+å
+java:S6541î"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 167 to 64, Complexity from 35 to 14, Nesting Level from 3 to 2, Number of Variables from 29 to 6.(Óûßó8ö§åŞ¹2

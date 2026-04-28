@@ -1,0 +1,29 @@
+
+¦
+java:S1192ü"]Define a constant instead of duplicating this literal "Milliseconds cannot be null." 4 times.(¹¤ğ€ıÿÿÿÿ8Ÿÿ¾–´2J$a80386ac-7246-4121-a561-15ddf6f073f5
+“
+java:S1192>"KDefine a constant instead of duplicating this literal "yyyy/MM/dd" 4 times.(ş‹Öüÿÿÿÿ8Ğ´‡Ş¶2J$90eff589-95d8-449a-afa7-947f16dcbc53
+•
+java:S1192º"LDefine a constant instead of duplicating this literal " is invalid" 3 times.(¡ñ¢ÿûÿÿÿÿ8Ğ´‡Ş¶2J$f45fa4dc-874f-4afb-88fb-42d0c3b369db
+£
+java:S1192N"`Define a constant instead of duplicating this literal "Unable to parse date string: {}" 5 times.(¢ËæÛ8Ğ´‡Ş¶2J$b25cef85-428a-42ad-9ef2-574d67e5fbab
+“
+java:S1192@"KDefine a constant instead of duplicating this literal "dd/MM/yyyy" 4 times.(›¼Æ›úÿÿÿÿ8Ğ´‡Ş¶2J$8eabaf9a-35ef-40a6-b7a6-fc1f6959bce1
+¬
+java:S1192K"iDefine a constant instead of duplicating this literal "Failed to parse '{}' with formatter '{}'" 4 times.(â¸ä…8Ğ´‡Ş¶2J$3989bc23-6c65-488a-9f01-4ec6bbf95b0b
+
+java:S1192"KDefine a constant instead of duplicating this literal "dd-MM-yyyy" 5 times.(»ÓÛ‚8Ğ´‡Ş¶2J$fce5eba9-4638-462a-b2d7-38639cff2690
+
+java:S1192<"KDefine a constant instead of duplicating this literal "yyyy-MM-dd" 6 times.(°ä‘ 8Ğ´‡Ş¶2J$ad99844f-2823-43e9-8a07-8bd1c0bdd9f5
+˜
+java:S1192"PDefine a constant instead of duplicating this literal "Date is invalid" 3 times.(Ë°‰Ÿûÿÿÿÿ8Ñ´‡Ş¶2J$47b852ef-2ba8-4c95-abcc-adc5f1d747c0
+
+java:S1192º"FDefine a constant instead of duplicating this literal "Date " 3 times.(¡ñ¢ÿûÿÿÿÿ8Ñ´‡Ş¶2J$0575f59c-13e5-4d17-bd9f-70a556331257
+|
+java:S1118":Add a private constructor to hide the implicit public one.(ƒ†€8”µ‡Ş¶2J$088c7915-8fb5-43ee-b741-13ae18fae319
+…
+java:S18545"BRemove this useless assignment to local variable "dateTimeParser".(ÿ€—Õ8œµ‡Ş¶2J$939c6dc5-142d-4ce5-8129-21e8ec612234
+q
+java:S24405".Remove this instantiation of "DateTimeParser".(ÿ€—Õ8¦µ‡Ş¶2J$39d30acf-1e56-4dea-9e44-d3a2a55c0402
+v
+java:S14815"3Remove this unused "dateTimeParser" local variable.(ÿ€—Õ8§µ‡Ş¶2J$1a52fa49-7320-4f07-a521-1046640d46e7

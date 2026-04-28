@@ -1,0 +1,31 @@
+
+r
+java:S37408"/Provide the parametrized type for this generic.(ÒËàˆ8Û¼—î2J$cb59a2fb-b1d4-4fbc-8809-c73476912fe3
+r
+java:S3740E"/Provide the parametrized type for this generic.(Ù¨€—8Û¼—î2J$2d918c3c-5b6c-4189-90e6-a72c6cc4fc68
+r
+java:S3740K"/Provide the parametrized type for this generic.(¸á×8Û¼—î2J$33567983-0416-49db-8bd8-3f26ec87392b
+i
+java:S1192"GDefine a constant instead of duplicating this literal "Sheet1" 3 times.(ÚĞğúÿÿÿÿ8ßÕ ñ½2
+q
+java:S1905_")Remove this unnecessary cast to "double".(·³öÿÿÿÿÿ8ñ¼—î2J$bf0a3a53-3638-4e8d-98ea-d3feafa15217
+Š
+java:S6201`"BReplace this instanceof check and cast with 'instanceof Long long'(ÇïíŸüÿÿÿÿ8ò¼—î2J$f36c489a-cb8a-491c-9b2c-20a4160508a6
+q
+java:S1905d")Remove this unnecessary cast to "double".(ÙƒÔÿÿÿÿÿ8ó¼—î2J$6e674536-dc45-4483-9b60-0d563aeaa857
+‰
+java:S6201f"FReplace this instanceof check and cast with 'instanceof Double double'(„Ê‰ú8ó¼—î2J$91804eb8-39a8-455e-a1af-22b47ef3ac10
+‰
+java:S6201h"FReplace this instanceof check and cast with 'instanceof String string'(Ğ»µÈ8ó¼—î2J$5e34c8da-4cd0-4924-81f2-9021cbdecc6f
+q
+java:S1905q")Remove this unnecessary cast to "double".(·³öÿÿÿÿÿ8î´’é½2J$0978e7b6-1142-4c66-88b9-9f3f4c7663fc
+Š
+java:S6201r"BReplace this instanceof check and cast with 'instanceof Long long'(ÇïíŸüÿÿÿÿ8î´’é½2J$58216a9f-bb34-4de5-be11-f604dbae573b
+q
+java:S1905v")Remove this unnecessary cast to "double".(ÙƒÔÿÿÿÿÿ8ï´’é½2J$55a545fd-b242-4424-9d07-375f4655a06f
+‰
+java:S6201x"FReplace this instanceof check and cast with 'instanceof Double double'(„Ê‰ú8ï´’é½2J$acabeee7-50ff-4e06-bc95-7fb0d2b97162
+‰
+java:S6201z"FReplace this instanceof check and cast with 'instanceof String string'(Ğ»µÈ8ï´’é½2J$9b373431-96db-4922-a5e5-15c495538f01
+ 
+java:S1128"XRemove this unused import 'in.edu.kristujayanti.propertyBinder.KJUSYSCommonKeysPBinder'.(Ñ•üÄüÿÿÿÿ8ó´’é½2J$398fad2e-9eeb-41d5-b590-ae676aaff737

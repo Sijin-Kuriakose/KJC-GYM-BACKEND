@@ -1,0 +1,7 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼Ô¦ˆ
+b	java:S1007"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­Ð¾C
+d
+java:S1144"IRemove this unused private "LibraryCheckInAndOutKeysPBinder" constructor.(ƒ½Óîúÿÿÿÿ
+A
+java:S11447",Remove this unused private "$values" method.(­Ð¾C

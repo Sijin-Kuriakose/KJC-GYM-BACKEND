@@ -1,0 +1,7 @@
+
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼Ô¦ˆJ$55be0d50-749d-437f-a464-c0b2a91a8628
+‰	java:S100y"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰‡Á£J$6ffb987a-9301-46b2-942b-0f379cf3db31
+|
+java:S1144T"@Remove this unused private "LibraryBookKeysPBInder" constructor.(÷ìºÓJ$adeb4a2a-a06b-441a-a2c2-e4233b9f1e46
+h
+java:S1144y",Remove this unused private "$values" method.(‰‡Á£J$09f94db3-cc6d-4f12-b08a-86db35a3d4de

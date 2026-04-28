@@ -1,0 +1,15 @@
+
+w
+java:S3740 "/Provide the parametrized type for this generic.(Â÷íåüÿÿÿÿ8ÃÊê«2J$6c010bd6-89c7-4719-b184-f60c4c7f999b
+w
+java:S3740$"/Provide the parametrized type for this generic.(«Éÿ„úÿÿÿÿ8ÄÊê«2J$74c72778-6477-4c78-acb4-c65e88693756
+w
+java:S3740,"/Provide the parametrized type for this generic.(ôœÚòÿÿÿÿÿ8ÄÊê«2J$18bcb6d4-fad4-4633-a3c8-edb3a26edbd9
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¥Ø§Ìşÿÿÿÿ8ÆÊê«2J$b3e1a226-9e3c-4d35-98db-1b4a88a2f278
+•	java:S100I"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÌøüÿÿÿÿ8ÊÊê«2J$6434e83d-2902-4881-952c-3c8814ce6677
+s
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ËÊê«2J$6f655b98-85a0-43b0-beb7-031267cc44b6
+‰
+java:S1144$"ARemove this unused private "QueueManagerKeysPBinder" constructor.(«Éÿ„úÿÿÿÿ8ÌÊê«2J$fc88a119-a55c-49d7-85cd-6c2bbb896f79
+t
+java:S1144I",Remove this unused private "$values" method.(éÌøüÿÿÿÿ8ÌÊê«2J$8731d6ed-a2fb-4c69-a661-21d20b5bf223

@@ -1,0 +1,44 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ï¿¿¥ûÿÿÿÿ
+`	java:S1121"FDefine and throw a dedicated exception instead of using a generic one.(¸İÀæøÿÿÿÿ
+`	java:S112;"FDefine and throw a dedicated exception instead of using a generic one.(éš¥Ùøÿÿÿÿ
+[	java:S112e"FDefine and throw a dedicated exception instead of using a generic one.(’ç¡¨
+E
+java:S3740"/Provide the parametrized type for this generic.(Ô»¸©
+E
+java:S3740B"/Provide the parametrized type for this generic.(Ø›
+E
+java:S3740F"/Provide the parametrized type for this generic.(¶¿Ê”
+J
+java:S3740g"/Provide the parametrized type for this generic.(ÚŒø£úÿÿÿÿ
+E
+java:S3740k"/Provide the parametrized type for this generic.(î¥é’
+q
+java:S1192ˆ"ZUse already-defined constant 'IMAGE_FILE_EXTENSION' instead of duplicating its value here.(å¨À€
+s
+java:S1488,"XImmediately throw this expression instead of assigning it to the temporary variable "e".(ê’Á¹şÿÿÿÿ
+s
+java:S14886"XImmediately throw this expression instead of assigning it to the temporary variable "e".(åª¯Ñùÿÿÿÿ
+o
+java:S1488X"ZImmediately throw this expression instead of assigning it to the temporary variable "fae".(ÃÜÅ+
+m
+java:S1488["XImmediately throw this expression instead of assigning it to the temporary variable "e".(¡ıÆu
+o
+java:S1488y"ZImmediately throw this expression instead of assigning it to the temporary variable "fae".(­‰ÑV
+n
+java:S1488|"XImmediately throw this expression instead of assigning it to the temporary variable "e".(Ì”È
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(è¯±ª
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ğƒ®ô
+3
+java:S1118"Hide this public constructor.(ğƒ®ô
+m
+java:S3776;"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(éš¥Ùøÿÿÿÿ
+6
+java:S3878>"Remove this array creation.(Ä®Îşıÿÿÿÿ
+0
+java:S3878Q"Remove this array creation.(‚­–S
+@
+java:S1905")Remove this unnecessary cast to "double".(Š˜ãÍ
+N
+java:S1068"8Remove this unused "IMAGE_FILE_EXTENSION" private field.(Öà·ø

@@ -1,0 +1,15 @@
+
+Q
+java:S3740"/Provide the parametrized type for this generic.(Â÷íåüÿÿÿÿ8»‡Éğ2
+L
+java:S3740"/Provide the parametrized type for this generic.(àçæƒ8»‡Éğ2
+Q
+java:S3740"/Provide the parametrized type for this generic.(Êíâşÿÿÿÿ8»‡Éğ2
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ššø™8·‡Éğ2
+o	java:S1006"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®æ­¿ıÿÿÿÿ8¾‡Éğ2
+d
+java:S1144"GRemove this unused private "ApplicantProgrammeKeysPBinder" constructor.(àçæƒ8»‡Éğ2
+i
+java:S1144"GRemove this unused private "ApplicantProgrammeKeysPBinder" constructor.(Êíâşÿÿÿÿ8»‡Éğ2
+N
+java:S11446",Remove this unused private "$values" method.(®æ­¿ıÿÿÿÿ8¼‡Éğ2

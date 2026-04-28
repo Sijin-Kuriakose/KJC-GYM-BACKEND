@@ -1,0 +1,7 @@
+
+΅	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(άϊχτωÿÿÿÿ8ιέαÒ¨2J$31bc663c-9e7a-4d6c-8dfe-4bbc4abce11a
+‚
+java:S1144!"?Remove this unused private "AuthCommonKeysPBinder" constructor.(ΑΘκή8νέαÒ¨2J$86ed5bd9-59ab-4549-8ebf-7536d992a07a
+o
+java:S1144O",Remove this unused private "$values" method.(”έζσ8ξέαÒ¨2J$0a092294-571c-40a6-bbb7-b8c844e07ae6
+	java:S100O"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”έζσ8φέαÒ¨2J$9bb184fb-f5c2-476e-a74e-3923d1d885e1

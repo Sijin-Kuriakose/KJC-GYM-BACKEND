@@ -1,0 +1,9 @@
+
+”
+java:S1192"LDefine a constant instead of duplicating this literal " under key " 4 times.(»†Ïşÿÿÿÿ8¼àëãı1J$fcad407f-785d-425e-9024-663ce2864947
+‚
+java:S1118":Add a private constructor to hide the implicit public one.(˜ÄÒĞüÿÿÿÿ8Áçãı1J$673778f7-d21f-4fc8-a2f6-02e314c0ae64
+r	java:S106"+Replace this use of System.out by a logger.(»†Ïşÿÿÿÿ8ß‡öãı1J$da4e5f8a-47e5-4a60-8178-ab304f3e453f
+r	java:S106"+Replace this use of System.err by a logger.(¢¸¶Èøÿÿÿÿ8¢Áçãı1J$c3fdc343-daa8-4864-89b9-9fc66eacb072
+m	java:S106-"+Replace this use of System.out by a logger.(Ãº›µ8¯Î¾äı1J$ae787b36-6d59-4c48-b19d-6df599e64d6d
+m	java:S106/"+Replace this use of System.err by a logger.(°ŒÀ¾8Øàëãı1J$ebd8383c-b049-42a9-840a-80536ca9ec33

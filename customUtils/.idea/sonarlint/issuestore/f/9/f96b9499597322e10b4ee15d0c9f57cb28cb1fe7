@@ -1,0 +1,15 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(Â÷íåüÿÿÿÿ
+E
+java:S3740"/Provide the parametrized type for this generic.(´»ü¦
+J
+java:S3740"/Provide the parametrized type for this generic.(³¥¶šüÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(á¬›Ð
+h	java:S1009"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òøÄÞýÿÿÿÿ
+„
+java:S1128"nRemove this unused import 'in.edu.kristujayanti.propertyBinder.Eform.Applicant.ApplicantProgrammeKeysPBinder'.(œ‡…Ë
+S
+java:S1144"=Remove this unused private "HRCommonKeysPBinder" constructor.(´»ü¦
+G
+java:S11449",Remove this unused private "$values" method.(òøÄÞýÿÿÿÿ

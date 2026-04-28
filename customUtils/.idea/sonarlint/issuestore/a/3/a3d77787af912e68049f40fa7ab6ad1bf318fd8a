@@ -1,0 +1,25 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(şƒ¿øÿÿÿÿ8„†ÜÊ±2
+h	java:S112ˆ"FDefine and throw a dedicated exception instead of using a generic one.(şƒ¿øÿÿÿÿ8„†ÜÊ±2
+
+java:S1192~"kDefine a constant instead of duplicating this literal "An error occurred while querying MongoDB: " 4 times.(şäğşøÿÿÿÿ8…†ÜÊ±2
+¡
+java:S1192T"ƒDefine a constant instead of duplicating this literal "Mongo exception occurred while fetching document and exception is " 3 times.(¦ÊÛ¡8…†ÜÊ±2
+¢
+java:S1192”"ƒDefine a constant instead of duplicating this literal "Mongo exception occurred while updating document and exception is " 4 times.(ÌÁÌà8…†ÜÊ±2
+—
+java:S1192S"uDefine a constant instead of duplicating this literal "Mongo exception occurred while fetching document {} " 3 times.(àî¬Õıÿÿÿÿ8…†ÜÊ±2
+P
+java:S1199Õ"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8‰†ÜÊ±2
+W
+java:S1133N"5Do not forget to remove this deprecated code someday.(Œï‹Òşÿÿÿÿ8¨†ÜÊ±2
+W
+java:S1133a"5Do not forget to remove this deprecated code someday.(‚Õê±üÿÿÿÿ8©†ÜÊ±2
+F
+java:S1168h"$Return an empty map instead of null.(‰„íÿÿÿÿÿÿ8«†ÜÊ±2
+R
+java:S1133y"5Do not forget to remove this deprecated code someday.(æ±£‚8¬†ÜÊ±2
+L	java:S106~"+Replace this use of System.err by a logger.(şäğşøÿÿÿÿ8­†ÜÊ±2
+M	java:S106‡"+Replace this use of System.err by a logger.(şäğşøÿÿÿÿ8®†ÜÊ±2
+S
+java:S1133Ô"5Do not forget to remove this deprecated code someday.(êûæ°8³†ÜÊ±2

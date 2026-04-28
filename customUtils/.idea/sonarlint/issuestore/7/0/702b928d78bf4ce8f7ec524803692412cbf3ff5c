@@ -1,0 +1,22 @@
+
+“	java:S117S"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃâåÞ8¬†±“¥2J$5847dfc5-15c8-4cff-900d-c1d40f973fbd
+¦
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "cipher".(ø¾¢çýÿÿÿÿ8®†±“¥2J$3d3f4b06-8977-4884-a93e-06c563fac2fd
+|
+java:S1118":Add a private constructor to hide the implicit public one.(½ß«l8Å†±“¥2J$e38d5880-48f8-4ecc-aacc-c83133029bc4
+s
+java:S5542"+Use another cipher mode or disable padding.(ø¾¢çýÿÿÿÿ8È†±“¥2J$fea56e40-7a3f-485f-8cd1-90e762d05952
+„
+java:S3457"AFormat specifiers should be used instead of string concatenation.(²è·ù8É†±“¥2J$e0dd963d-9920-400e-8e11-019c54781e84
+m
+java:S3457"%String contains no format specifiers.(ä¤¡”ÿÿÿÿÿ8Ì†±“¥2J$69f376bf-60d7-4f57-9b4b-e0253f3216a0
+h
+java:S3457"%String contains no format specifiers.(»Á²ç8Ì†±“¥2J$8d915255-7d7d-4a80-b96f-9fa99f056f38
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(Ç×®ùÿÿÿÿ8àý¡­¥2J$15b7b554-5cb7-4858-9707-9b24ba75fff0
+j
+java:S3329%"'Use a dynamically-generated, random IV.(–§½Ž8âý¡­¥2J$d4f80ac9-d3be-4f49-a7cb-f272ff67ff06
+ƒ
+java:S3457*"AFormat specifiers should be used instead of string concatenation.(ë¡œC8Î†±“¥2J$b2ccce37-6367-45b2-8313-bd9f6839bea6
+ƒ	java:S1251"<This block of commented-out lines of code should be removed.(Ç×®ùÿÿÿÿ8¨—£­¥2J$ca852e3d-59b8-46bb-aee1-525a60414762
+„
+java:S3457;"AFormat specifiers should be used instead of string concatenation.(¶ç±º8Ï†±“¥2J$513516b1-5b7f-426b-92a9-fde0f82b527e
